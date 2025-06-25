@@ -1,1 +1,2 @@
-# today-meal-backend
+cd today-meal-backend
+npm run dev

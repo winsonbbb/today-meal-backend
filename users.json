@@ -1,0 +1,18 @@
+{
+  "aaa": {
+    "password": "123",
+    "token": "42fd495a-70b9-4132-b519-b542a2a7fc17"
+  },
+  "user": {
+    "password": "user",
+    "token": "10406beb-99ba-4a29-9f32-8387ff7b77ac"
+  },
+   "ricky": {
+    "password": "123456",
+    "token": "abc-xyz-123"
+  },
+  "alice": {
+    "password": "secret",
+    "token": "abc-def-456"
+  }
+}

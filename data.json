@@ -1,0 +1,62 @@
+{
+  "ricky": [
+    {
+      "name": "abc",
+      "cooldownDays": 1,
+      "disabled": false,
+      "lastChosen": null,
+      "tags": [
+        "12",
+        "2",
+        "2"
+      ]
+    },
+    {
+      "name": "11111",
+      "cooldownDays": 111,
+      "disabled": false,
+      "lastChosen": null,
+      "tags": [
+        "11122"
+      ]
+    }
+  ],
+  "alice": [
+    {
+      "name": "vvv",
+      "cooldownDays": 11,
+      "disabled": false,
+      "lastChosen": null,
+      "tags": [
+        "d",
+        "e",
+        "f"
+      ]
+    }
+  ],
+  "aaa": [],
+  "user": [
+    {
+      "name": "asdas",
+      "cooldownDays": 1,
+      "disabled": false,
+      "lastChosen": "2025-06-25",
+      "tags": [
+        "12",
+        "2",
+        "2"
+      ],
+      "locationLink": ""
+    },
+    {
+      "name": "123",
+      "cooldownDays": 11,
+      "disabled": false,
+      "lastChosen": "2025-06-25",
+      "tags": [
+        "2221",
+        "22"
+      ]
+    }
+  ]
+}
