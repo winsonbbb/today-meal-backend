@@ -57,6 +57,32 @@
         "2025-06-26",
         "2025-06-26T03:10:51.886Z"
       ]
+    },
+    {
+      "id": "2edbc6b5-297e-485d-9aea-831bb2e0a6ab",
+      "name": "asda",
+      "cooldownDays": 0,
+      "disabled": false,
+      "lastChosen": null,
+      "tags": [
+        "12",
+        "2",
+        "2"
+      ],
+      "drawHistory": [],
+      "tab": "gg"
+    },
+    {
+      "id": "7497ec35-3717-4b88-bd31-0aa04f60b190",
+      "name": "aaaaaa",
+      "cooldownDays": 0,
+      "disabled": false,
+      "lastChosen": null,
+      "tags": [
+        "js"
+      ],
+      "drawHistory": [],
+      "tab": "gg"
     }
   ],
   "aaa": [
